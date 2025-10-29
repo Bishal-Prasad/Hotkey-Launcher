@@ -10,9 +10,6 @@ It’s designed to save time and streamline your workflow by mapping your favori
 ✅ **Customizable Hotkeys** – Assign any key combination to any action (like opening an app, folder, or URL).  
 ✅ **Lightweight & Fast** – Runs quietly in the background with minimal CPU use.  
 ✅ **Cross-App Support** – Works system-wide, no matter which window is active.  
-✅ **Config File Support** – Easily add or edit hotkeys via a simple `.json` or `.txt` config file.  
-✅ **Safe & Local** – Does not collect or send any data; all actions are stored locally.  
-✅ **Start with Windows** (optional) – Launch automatically on startup.  
 
 ---
 
